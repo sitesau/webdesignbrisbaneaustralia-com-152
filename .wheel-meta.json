@@ -1,0 +1,22 @@
+{
+  "wheel_id": 642,
+  "structure": "umbrella",
+  "slug": "webdesignbrisbaneaustralia-com-152",
+  "project": "web-design-brisbane-cost-guide-c3b12d88c5e4fd38a52ba91a5def10bf",
+  "parent_t1_ref": "webdesignbrisbaneaustralia.com-010",
+  "node_role": "buffer",
+  "money_target": "webdesignbrisbaneaustralia.com.au",
+  "primary_kw": "web design brisbane cost guide",
+  "intended_url": "https://sites-e470-2.web.app/web-design-brisbane-cost-guide-c3b12d88c5e4fd38a52ba91a5def10bf/",
+  "tier": "T2",
+  "writeback_nonce": "8972b992569d2556",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/webdesignbrisbaneaustralia.com-010/web-design-brisbane.html",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
